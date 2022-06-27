@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="EmployeesManagerClient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/EmployeesManagerClient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
